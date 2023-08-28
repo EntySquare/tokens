@@ -1,0 +1,11 @@
+{
+  "name": "Test USDT",
+  "website": "",
+  "description": "Test usdt 可调用mint获得代币",
+  "explorer": "https://bscscan.com/token/0x55d398326f99059fF775485246999027B3197955",
+  "type": "BEP20",
+  "symbol": "TUSDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x0254e10FE88D09db4E2cD3681b0Adfe573D0E340"
+}
